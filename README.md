@@ -1,7 +1,7 @@
-## Hi, I'm Izack 
+## Hi, I'm Izack 👋
 
-- ⚡ I am a student-athlete at Chaminade University of Honolulu
-- 🌱 I am a right handed pitcher (RHP) for Chaminade Baseball
+- 👯 I am a student-athlete at Chaminade University of Honolulu
+- ⚡ I am a data science major and right-handed pitcher (RHP) at Chaminade University
 - 📫 I live in Honolulu, Hawaii
 - 💬 Reach me at takazawaizack@gmail.com
 
