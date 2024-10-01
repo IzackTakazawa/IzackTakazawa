@@ -1,10 +1,11 @@
-## Hi there
+## Hi, I'm Izack
+I am a student at Chaminade University of Honolulu
 
 <!--
 **IzackTakazawa/IzackTakazawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-Student at Chaminade University of Honolulu
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
