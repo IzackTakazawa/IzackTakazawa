@@ -1,5 +1,9 @@
-## Hi, I'm Izack
-I am a student at Chaminade University of Honolulu
+## Hi, I'm Izack 
+
+⚡ I am a student athlete at Chaminade University of Honolulu
+🌱 I am a right handed pitcher (RHP) for Chaminade Baseball
+📫 I live in Honolulu, Hawaii
+💬 Reach me at takazawaizack@gmail.com
 
 <!--
 **IzackTakazawa/IzackTakazawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
