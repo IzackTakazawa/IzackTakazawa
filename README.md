@@ -1,7 +1,7 @@
 ## Hi, I'm Izack 👋
 
-- 👯 I am a student-athlete at Chaminade University of Honolulu
-- ⚡ I am a data science major and right-handed pitcher (RHP) at Chaminade University
+- 👯 I am a student at Chaminade University of Honolulu
+- ⚡ I am double majoring in Data Science and Visualization & Computer Science with a concentration in Health Informatics and Analytics
 - 📫 I live in Honolulu, Hawaii
 - 💬 Reach me at takazawaizack@gmail.com
 
